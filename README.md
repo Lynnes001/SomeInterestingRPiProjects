@@ -1,4 +1,4 @@
-# SomeInterestingRPiProjects
+# Some Interesting RPi Projects
 
 
 
